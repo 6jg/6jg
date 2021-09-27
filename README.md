@@ -1,16 +1,27 @@
-### Hi there 👋
+# 👋
 
-<!--
-**jtg-6/jtg-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 [jamesgwyer.com](https://i.hate.jamesgwyer.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+🌍 [jamesgwyer.com](https://i.hate.jamesgwyer.com)
+
+🎵 [music.jamesgwyer.com](https://music.jamesgwyer.com)
+
+### Experience
+
+📃 WordPress (self-hosted)
+
+🌅 React ([Next.js](https://nextjs.org))
+
+📐 [Vercel](https://vercel.com)
+
+---
+
+✉️ [6@jamesgwyer.com](mailto:6@jamesgwyer.com)
+
+🐦 [Twitter](https://twitter.com/jamesgwyer)
+
+📔 [Notion](https://jamesgwyer.com/notion)
