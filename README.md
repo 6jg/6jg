@@ -6,7 +6,7 @@
 
 ### Projects
 
-🌍 [jamesgwyer.com](https://i.hate.jamesgwyer.com)
+📃 [blog.jamesgwyer.com](https://blog.jamesgwyer.com)
 
 🎵 [music.jamesgwyer.com](https://music.jamesgwyer.com)
 
