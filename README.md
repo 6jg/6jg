@@ -12,7 +12,7 @@
 
 ### Experience
 
-📃 WordPress (self-hosted)
+📃 WordPress ([self-hosted](https://wordpress.org))
 
 🌅 React ([Next.js](https://nextjs.org))
 
