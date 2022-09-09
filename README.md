@@ -1,1 +1,1 @@
-![plane](https://user-images.githubusercontent.com/63654278/135745691-ca3a2b9b-fc84-4c80-8bb4-452ab85d4164.gif)
+![his ass is not a software engineer](https://img.ifunny.co/images/7116588ee6e5513be48ce3e858664be823000311587311284004ba51cdea99d4_1.webp)
