@@ -1,1 +1,1 @@
-![plane](https://user-images.githubusercontent.com/63654278/135745691-ca3a2b9b-fc84-4c80-8bb4-452ab85d4164.gif)
+![frank ocean nikes mv](https://github.com/idkjames/idkjames/assets/63654278/20215b64-d428-43c6-961a-553408b14f03)
