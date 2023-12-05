@@ -1,1 +1,1 @@
-![frank ocean nikes mv](https://github.com/idkjames/idkjames/assets/63654278/20215b64-d428-43c6-961a-553408b14f03)
+![his ass is not a software engineer](https://github.com/6jtg/6jtg/assets/63654278/621deb96-966f-4007-8266-0ef6331cbb88)
