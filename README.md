@@ -1,1 +1,1 @@
-![frank ocean nikes mv](https://github.com/6jtg/6jtg/assets/63654278/da4dcf25-f1ca-44a7-913e-bcce49510005)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wgdtzmzwpha3raa2jzrpe2lq6e&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31wgdtzmzwpha3raa2jzrpe2lq6e&redirect=true)
